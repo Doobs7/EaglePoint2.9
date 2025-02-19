@@ -1,0 +1,2 @@
+docker run --rm -p 10800:10800 apacheignite/ignite   ******in terminal to run vector server
+docker run -p 9090:9090 prom/prometheus

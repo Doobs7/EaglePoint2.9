@@ -1,0 +1,13 @@
+asyncpg
+aiofiles
+aiohttp
+python-dotenv
+openai
+numpy
+scikit-learn
+chromadb
+pyignite
+faiss-cpu
+torch
+networkx
+python-json-logger
